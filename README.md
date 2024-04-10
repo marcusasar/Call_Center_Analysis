@@ -2,7 +2,7 @@
 
 This is a call center dashboard I created with data from October 2020. It has over 30,000 rows of data.
 
-Also I filter it by the call centers and the date.
+Also I filtered it by the call centers and the date.
 
 Here is how the final dashboard looks like.
 
